@@ -1,0 +1,25 @@
+
+
+
+*{
+margin: 10px;
+width: auto; /*1920px desktop, 768px tablet e 320px mobile*/
+}
+body{
+background-color: rgb(182, 189, 187);
+/* bacground-image: ; */
+}
+h1{
+     text-align: center;
+     }
+p{
+    text-align: justify;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border-width: 10px ; /*largura da borda*/
+    border-style: groove; /*estilo da borda*/
+    border-color: bisque; /*cor da borda*/
+}
